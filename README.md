@@ -1,4 +1,5 @@
 # Customer Churn & AI Retention Dashboard
+![Dashboard Preview](dashboard_preview.png)
 
 An end-to-end data analytics and machine learning pipeline integrated with PostgreSQL and an interactive Power BI dashboard.
 
